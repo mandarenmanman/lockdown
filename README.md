@@ -17,7 +17,7 @@
 
 联系方式：
 
-wechat:historyblock   email:66ccff@historyblock.org
+wechat:historyblock   email:66ccff@historyblock.org   ETH:0x83872CE33905776EF9e159b892AC0Ad568bA388F
 
 ## 武汉市新型冠状病毒感染的肺炎疫情防控指挥部通告（第1号）
 http://www.gov.cn/xinwen/2020-01/23/content_5471751.htm
